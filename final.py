@@ -9,7 +9,7 @@ import img2pdf
 import RPi.GPIO as GPIO
 
 def mail_on():
-	print "333"
+	print "on mail sending"
 	fromaddr = "jinumohan173@gmail.com"
 	toaddr = "way2jinu@gmail.com"
  
