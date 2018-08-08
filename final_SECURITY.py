@@ -1,3 +1,8 @@
+# AUTHOR :- jinu.m
+#DOC :-  13/07/2017
+#TOC:-14:00
+
+
 import smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
