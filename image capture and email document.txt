@@ -1,0 +1,6 @@
+sudo apt-get update
+sudo pip install img2pdf
+sudo apt-get install fswebcam
+fswebcam -r 640x480 -s 15 image.jpg
+
+sudo fswebcam -d /dev/video0 -r 320x240 -S 2 6.jpg
